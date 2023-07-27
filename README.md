@@ -9,7 +9,7 @@
 ## Future / Planned features
 
 * Add your preferred E-Mail Accounts
-* Send E-Mails using SMTP
+* Send E-Mails using SMTP (including SMTP Auth (extended SMTP))
 * Receive E-Mails using IMAP
 * Receive E-Mails using POP
 * Exchange support
