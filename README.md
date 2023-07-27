@@ -15,3 +15,4 @@
 * Notifications
 * GPG Encryption of your emails
 * Sync of accounts (*pro feature maybe*)
+* MD formatting for E-Mails
