@@ -9,7 +9,10 @@
 ## Future / Planned features
 
 * Add your preferred E-Mail Accounts
-* Send and receive E-Mails
+* Send E-Mails using SMTP
+* Receive E-Mails using IMAP
+* Receive E-Mails using POP
+* Exchange support
 * Sort your E-Mails in folders
 * Auto reply
 * Notifications
