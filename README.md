@@ -1,16 +1,17 @@
-# mailit
+# Mail it! - A simple open source mail client
 
-A new Flutter project.
+## What is it about?
 
-## Getting Started
+## Current Features
 
-This project is a starting point for a Flutter application.
+*work in progress*
 
-A few resources to get you started if this is your first Flutter project:
+## Future / Planned features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* Add your preferred E-Mail Accounts
+* Send and receive E-Mails
+* Sort your E-Mails in folders
+* Auto reply
+* Notifications
+* GPG Encryption of your emails
+* Sync of accounts (*pro feature maybe*)
