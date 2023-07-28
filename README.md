@@ -2,6 +2,16 @@
 
 ## What is it about?
 
+## Supported platforms
+
+- [ ] Android (Phone, without google services)
+- [X] iOS
+- [X] iPad OS
+- [X] Mac OS X
+- [X] Linux x86
+- [X] Linux on Arm
+- [ ] Android Automotive *(planned for the future)*
+
 ## Current Features
 
 *work in progress*
